@@ -1,7 +1,13 @@
 body {
-    color: #a7e4f3;
+    color: #e3e4ee;
     font-family: 'Franklin Gothic Medium';
   }
+
+  p {
+    color: #000000;
+    font-family: verdana;
+    text-align: center;
+    }
 
 h5, h6 {
   color: #000000;
@@ -14,11 +20,8 @@ select {
   text-align: center;
   }
 
-
 .jumbotron {
-    background-image: url("../bacteria.jpeg");
-    background-size: 50% 100%;
-    text-align: center;
-  }
-
-  
+  background-image: url("../bacteria.png");
+  background-size: 100% 100%;
+  text-align: center;
+}
